@@ -1,0 +1,16 @@
+service_number,name,rank,unit,platoon,status,heart_rate,hrv,gsr,spo2,skin_temp
+SF-1001,Arjun Singh,Captain,Alpha,1st-Plt,active,72.5,45.2,12.1,98,36.5
+SF-1002,Rajesh Patel,Sergeant,Alpha,1st-Plt,active,85.0,38.5,15.3,96,36.8
+SF-1003,Priya Sharma,Lieutenant,Bravo,HQ-Plt,active,68.0,55.1,10.2,99,36.4
+SF-1004,Vikram Yadav,Corporal,Alpha,2nd-Plt,active,77.5,42.0,13.5,97,36.6
+SF-1005,Anil Kumar,Private,Charlie,1st-Plt,deployed,95.5,25.4,22.1,94,37.2
+SF-1006,Suresh Reddy,Corporal,Bravo,2nd-Plt,active,74.0,48.2,11.8,98,36.5
+SF-1007,Deepak Nair,Sergeant,Delta,1st-Plt,active,80.5,35.6,16.4,96,36.7
+SF-1008,Rahul Iyer,Private,Delta,3rd-Plt,medical,110.5,15.2,25.5,92,38.1
+SF-1009,Kiran Desai,Major,Echo,HQ-Plt,active,65.5,60.1,9.5,99,36.3
+SF-1010,Ramesh Gupta,Havildar,Foxtrot,1st-Plt,active,76.2,44.5,14.2,97,36.6
+SF-1011,Sanjay Mishra,Private,Charlie,2nd-Plt,deployed,88.5,30.2,19.5,95,37.0
+SF-1012,Amit Chauhan,Naik,Echo,2nd-Plt,active,71.5,50.5,11.1,98,36.4
+SF-1013,Neha Singh,Private,Alpha,1st-Plt,active,79.0,40.1,14.8,97,36.6
+SF-1014,Vikas Kumar,Corporal,Bravo,1st-Plt,active,73.5,47.8,12.5,98,36.5
+SF-1015,Manoj Tiwari,Sergeant,Delta,2nd-Plt,deployed,92.0,28.5,20.1,95,37.1
